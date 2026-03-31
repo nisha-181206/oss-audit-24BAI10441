@@ -1,4 +1,4 @@
-# 🐍 Open Source Audit — Capstone Project
+#  Open Source Audit — Capstone Project
 
 
 ## 📌 Project Overview
